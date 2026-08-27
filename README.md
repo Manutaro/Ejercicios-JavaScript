@@ -1,0 +1,3 @@
+# **Ejercicios JavaScript.**
+
+Este **repositorio** fue creado exclusivamente para subir ejercicios que vimos en clase sobre el Lenguaje de **JavaScript**
